@@ -5,9 +5,6 @@
   <img src="https://htv.com.pk/wp-content/uploads/manage-stress.gif" alt="wilysionmadhavi" width="400" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wilysionmadhavi&label=Profile%20views&color=0e75b6&style=flat" alt="wilysionmadhavi" />
-</p>
 
 <p align="left">
   <a href="https://twitter.com/" target="_blank">
