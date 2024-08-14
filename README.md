@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Passionate Frontend Developer from India</h1>
 
-<p align="center">
-  <img src="https://htv.com.pk/wp-content/uploads/manage-stress.gif" alt="Wilysion Madhavi" width="400" />
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
