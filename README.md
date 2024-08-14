@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm a Passionate Frontend Developer from India</h1>
 <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Image" width="100%" height="300"/>
-<h3 align="center">Languages and Tools:</h3>
-<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="300"/>
-<p align="center">
+<img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="bootstrap" width="450"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
   </a>
@@ -56,13 +56,13 @@
   </a>
 </p>
 
-<h3 align="center">My GitHub Status:</h3>
-<p align="center">
+<h3 align="left">My GitHub Status:</h3>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wilysionmadhavi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wilysionmadhavi&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilysionmadhavi" alt="GitHub Streak" />
 </p>
