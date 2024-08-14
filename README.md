@@ -4,12 +4,6 @@
   <img src="https://htv.com.pk/wp-content/uploads/manage-stress.gif" alt="Wilysion Madhavi" width="400" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -65,7 +59,7 @@
   </a>
 </p>
 
-<h3 align="center">My GitHub Stats:</h3>
+<h3 align="center">My GitHub Status:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wilysionmadhavi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
