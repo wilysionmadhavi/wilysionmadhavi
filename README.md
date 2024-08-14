@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Passionate Frontend Developer from India</h1>
 <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Image" width="100%" height="300"/>
 <h3 align="center">Languages and Tools:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="300"/>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
