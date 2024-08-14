@@ -1,24 +1,17 @@
-<h1 align="center">Hi 👋, I'm...</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm a Passionate Frontend Developer from India</h1>
 
-<p align="right">
-  <img src="https://htv.com.pk/wp-content/uploads/manage-stress.gif" alt="wilysionmadhavi" width="400" />
+<p align="center">
+  <img src="https://htv.com.pk/wp-content/uploads/manage-stress.gif" alt="Wilysion Madhavi" width="400" />
 </p>
 
-
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
-
-<p align="left">
-  <!-- Add your contact links here if desired -->
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
   </a>
@@ -72,14 +65,13 @@
   </a>
 </p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilysionmadhavi&show_icons=true&locale=en&layout=compact" alt="wilysionmadhavi" />
+<h3 align="center">My GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wilysionmadhavi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilysionmadhavi&show_icons=true&locale=en" alt="wilysionmadhavi" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilysionmadhavi&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilysionmadhavi&" alt="wilysionmadhavi" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilysionmadhavi" alt="GitHub Streak" />
 </p>
